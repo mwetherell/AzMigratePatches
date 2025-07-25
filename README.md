@@ -1,7 +1,8 @@
 # AzMigratePatches
 
  Author: Dinesh Reddy Gottam (PG member of the Azure Migrate team)
-
+# prereqs
+these DLLs have only been tested on discovery appliance version: 25.24.02.07
 # Instuctions:
 !---note this is NOT for the target migration appliace that runs on your AzL cluster---!
 
