@@ -15,6 +15,6 @@ these DLLs are experimental. Use at your own risk.
 
 4. copy (overwrite) the DLLs 
 
-5. start the asrgwy service:  Stop-Service asrgwy
+5. start the asrgwy service:  start-Service asrgwy
 
 that's it. if necessary do your housekeeping and restart your migrations jobs
